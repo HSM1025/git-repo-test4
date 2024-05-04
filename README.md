@@ -1,3 +1,2 @@
 # fetch test
-Hello World!
-new index
+new test
